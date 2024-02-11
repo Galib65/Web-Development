@@ -1,0 +1,43 @@
+.background{
+    background-color: aqua;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    border: 10px solid red;
+    box-shadow: 15px 20px 15px rgb(4, 12, 11);
+   
+    
+}
+#background_image{
+    background-image: url('images\ \(1\).jpeg');
+    background-size: 360px;
+    color: blue;
+    text-align: left;
+
+}
+
+.background_size{
+    background-image: url('best-css-background-generators.avif');
+    background-size: 780px;
+    background-repeat: repeat-x repeat-y;
+
+}
+
+.empty{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    font-weight: 600;
+    color: black;
+    background-image: url('images.jpeg');
+    background-repeat: repeat-x;
+    background-size: 480px 620px;
+    position: relative;
+    border: 10px solid #73AD21;
+    box-shadow: 10px 15px 19px green;
+    border-radius: 5px 10px;
+}
+
+*{
+    margin: 0 px;
+    padding: 10px;
+}

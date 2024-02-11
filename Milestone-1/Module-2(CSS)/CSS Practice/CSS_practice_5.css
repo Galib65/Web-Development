@@ -1,0 +1,19 @@
+.border{
+   
+    box-shadow: 10px 20px 20px black;
+    border-style: inset;
+    box-sizing: unset;
+    background-color: black;
+    color: white;
+    font-family:cursive;
+
+}
+    
+.justify{
+    text-align: center;
+    box-shadow: 10px 20px 20px black;
+    border: 10px solid black;
+    border-style: inset;
+    box-sizing: border-box;
+
+}

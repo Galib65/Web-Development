@@ -1,0 +1,29 @@
+*{
+    margin: 15px 12px;
+    padding: 10px;
+    /* border: 12px solid black; */
+}
+
+#specific{
+    color:chocolate;
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ol,h1{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.blue{
+    color: blue;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.style1{
+    margin: 20px;
+    padding:10px;
+    border:10px solid aqua;
+}

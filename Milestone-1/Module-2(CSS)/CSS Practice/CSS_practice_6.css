@@ -1,0 +1,52 @@
+.style1{
+    background-color: black;
+    text-align: center;
+    
+}
+
+.style2{
+    text-align: center;
+    color: orange;
+    
+}
+
+.color1{
+    color: aqua;
+    font-size: larger;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+.color2{
+    color: aquamarine;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#btn{
+    border: 5px solid yellowgreen;
+    background-color: white;
+    color: blue;
+    box-shadow: 3px 3px 5px solid white;
+    border-style: inset;
+    font-size: larger;
+    border-radius: 5px;
+}
+.specific{
+    border: 4px solid black;
+    display: inline-block;
+    height: 50px;
+    width: 125px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 3px;
+    background-color: yellow;
+}
+
+.seperate{
+    border: 5px solid black;
+    background-color: yellowgreen;
+    display: inline;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 3px 4px 5px black;
+}
